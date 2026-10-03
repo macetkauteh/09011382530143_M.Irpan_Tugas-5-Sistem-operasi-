@@ -17,7 +17,7 @@
 
 
 4. Ubahlah ijin akses *file* dataku pada sub direktori januari sehingga *group* dan *others* dapat melakukan *write*.
-
+[![Gambar 3](WhatsApp%20Image%202026-10-03%20at%2019.53.32%20(1).jpeg)](WhatsApp%20Image%202026-10-03%20at%2019.53.32%20(1).jpeg)
 
 
 5. Ubahlah ijin akses *file* dataku pada sub direktori februari sehingga *user* dapat melakukan baik *write, read* maupun *execute*, tetapi *group* dan *others* hanya bisa *read* dan *execute*.
