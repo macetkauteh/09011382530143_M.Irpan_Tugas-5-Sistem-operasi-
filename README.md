@@ -37,6 +37,8 @@
 
 
 9. Modifikasi *umask* dari *file* dataku pada sub direktori januari menjadi 027 dan berapakan nilai *default*-nya?
-
+[![Gambar 9](WhatsApp%20Image%202026-10-03%20at%2019.53.34.jpeg)](WhatsApp%20Image%202026-10-03%20at%2019.53.34.jpeg)
 
 10. Buatlah *link* dari *file* dataku ke *file* dataku.ini dan *file* dataku.juga dan dengan perintah *list* perhatikan berapa *link* yang terjadi?
+
+[![Gambar 10](WhatsApp%20Image%202026-10-03%20at%2019.53.35.jpeg)](WhatsApp%20Image%202026-10-03%20at%2019.53.35.jpeg)
