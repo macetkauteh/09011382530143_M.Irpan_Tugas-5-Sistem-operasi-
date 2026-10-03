@@ -2,8 +2,8 @@
 ## VI. Tugas
 
 1. Lihat peralatan I/O, *character device*, yang ada pada sistem komputer.
-["Gambar 2"](WhatsApp20%Image20%2026-10-0320%at20%19.53.31.jpeg)
 
+[![Gambar 2](WhatsApp%20Image%202026-10-03%20at%2019.53.31.jpeg)](WhatsApp%20Image%202026-10-03%20at%2019.53.31.jpeg)
 
 2. Buatlah sub direktori januari, februari dan maret sekaligus pada direktori latihan 5.
 
