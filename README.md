@@ -25,7 +25,7 @@
 
 
 6. Ubahlah ijin akses *file* dataku pada sub direktori maret sehingga semua dapat melakukan *write, read* dan *execute*.
-
+[![Gambar 8](WhatsApp%20Image%202026-10-03%20at%2019.53.33.jpeg)](WhatsApp%20Image%202026-10-03%20at%2019.53.33.jpeg)
 
 
 7. Hapuslah direktori maret.
