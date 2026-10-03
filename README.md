@@ -29,7 +29,7 @@
 
 
 7. Hapuslah direktori maret.
-
+[![Gambar 6](WhatsApp%20Image%202026-10-03%20at%2019.53.33%20(1).jpeg)](WhatsApp%20Image%202026-10-03%20at%2019.53.33%20(1).jpeg)
 
 
 8. Ubahkan kepemilikan sub direktori februari sehingga *user* dan *group* hanya dapat melakukan *read*, dan cobalah untuk membuat direktori baru haha pada sub direktori februari.
