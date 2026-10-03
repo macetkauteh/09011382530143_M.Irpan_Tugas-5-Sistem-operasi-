@@ -12,7 +12,7 @@
 
 
 3. Buatlah *file* dataku yang berisi nama, nim dan alamat anda pada sub direktori januari dan *copy-kan* file tersebut ke sub direktori februari dan maret.
-
+[![Gambar 5](WhatsApp%20Image%202026-10-03%20at%2019.53.32.jpeg)](WhatsApp%20Image%202026-10-03%20at%2019.53.32.jpeg)
 
 
 
