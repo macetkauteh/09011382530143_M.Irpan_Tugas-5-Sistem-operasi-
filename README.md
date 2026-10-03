@@ -33,7 +33,7 @@
 
 
 8. Ubahkan kepemilikan sub direktori februari sehingga *user* dan *group* hanya dapat melakukan *read*, dan cobalah untuk membuat direktori baru haha pada sub direktori februari.
-
+[![Gambar 7](WhatsApp%20Image%202026-10-03%20at%2019.53.33%20(2).jpeg)](WhatsApp%20Image%202026-10-03%20at%2019.53.33%20(2).jpeg)
 
 
 9. Modifikasi *umask* dari *file* dataku pada sub direktori januari menjadi 027 dan berapakan nilai *default*-nya?
